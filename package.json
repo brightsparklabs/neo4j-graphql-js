@@ -1,7 +1,7 @@
 {
-  "name": "neo4j-graphql-js",
-  "version": "2.19.4",
-  "description": "A GraphQL to Cypher query execution layer for Neo4j. ",
+  "name": "bsl-neo4j-graphql-js",
+  "version": "2.19.4-bsl",
+  "description": "BSL fork of https://github.com/neo4j-graphql/neo4j-graphql-js",
   "main": "./dist/index.js",
   "types": "./index.d.ts",
   "scripts": {
