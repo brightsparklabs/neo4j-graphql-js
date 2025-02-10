@@ -1,6 +1,6 @@
 {
   "name": "bsl-neo4j-graphql-js",
-  "version": "2.19.5-bsl",
+  "version": "2.19.6-bsl",
   "description": "BSL fork of https://github.com/neo4j-graphql/neo4j-graphql-js",
   "main": "./dist/index.js",
   "types": "./index.d.ts",
